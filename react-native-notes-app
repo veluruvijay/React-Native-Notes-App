@@ -1,0 +1,7 @@
+react-native-notes-app/
+├─ App.js
+├─ package.json
+├─ babel.config.js
+└─ components/
+   ├─ NoteInput.js
+   └─ NoteList.js
